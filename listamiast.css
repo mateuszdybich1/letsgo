@@ -1,0 +1,9 @@
+.buttonik {
+    box-shadow: 0px 5px 10px 0px;
+    transition: all ease 0.2s;            
+  }
+
+  .buttonik:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 20px 2px ;
+  }
